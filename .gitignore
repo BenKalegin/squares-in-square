@@ -1,0 +1,5 @@
+# Project-local Lean installation and build products
+.tools/
+lean/.lake/
+lean/*.olean
+lean/*.ilean
